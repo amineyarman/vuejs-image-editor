@@ -1,5 +1,7 @@
 # vue-image-editor
 
+http://aminerman.com/playground/vue-image-editor/
+
 > An image editor made with Vue.js with the following features : Image loading from hard drive -> Slider for image editing -> Possibility to save the modified image on hard drive
 
 ## Build Setup
